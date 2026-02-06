@@ -7,3 +7,6 @@ This section was added for branch testing.
 This is an update
 Bugs fix
 UI enhance
+
+## Pull Request Practice 
+This update was made for the pull request simulation activity.
