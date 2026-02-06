@@ -1,3 +1,7 @@
+//ADDED PHP BACKEND, Javascripts and comment guide
+// Add new section and UI improvements 
+
+
 git<?php
 include 'db.php';
 session_start();
@@ -431,3 +435,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 </body>
 </html>
+
+
+

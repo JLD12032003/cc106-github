@@ -10,3 +10,5 @@ UI enhance
 
 ## Pull Request Practice 
 This update was made for the pull request simulation activity.
+
+LESSON 6 assessment
